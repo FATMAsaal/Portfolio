@@ -179,7 +179,7 @@
             <div class="col-md-4">
                 <div class="card-content">
                     <div class="card-img">
-                        <img src="img/lille.png" alt="">
+                        <img src="img/vlive.png" alt="">
                     </div>
                     <div class="card-desc">
                         <h3>VLive</h3>
@@ -196,12 +196,12 @@
             <div class="col-md-4">
                 <div class="card-content">
                     <div class="card-img">
-                        <img src="img/trucmuche.png" alt="">
+                        <img src="img/" alt="">
                     </div>
                     <div class="card-desc">
-                        <h3>Trucmuche</h3>
-                            <p>Programmation du jeu du Trucmuche.<span id="dots"></span><span id="more">
-                            Langage utilisé est : Python
+                        <h3>Application pour la gestion de location de véhicules</h3>
+                            <p>Programmation d'une application qui permet d'assurer la gestion de location de véhicules pour une agence<span id="dots"></span><span id="more">
+                            Langage utilisé est : Java , Mysql pour la base de données.
                             </span></p>
 
 
@@ -211,7 +211,7 @@
              <div class="col-md-4">
                 <div class="card-content">
                     <div class="card-img">
-                        <img src="#" alt="">
+                        <img src="img/memory.png" alt="">
                     </div>
                     <div class="card-desc">
                         <h3>Memory game</h3>
@@ -250,10 +250,26 @@
                 </div>
             </div>
 
+
+
+<div class="col-md-4">
+                <div class="card-content">
+                    <div class="card-img">
+                        <img src="" alt="">
+                    </div>
+                    <div class="card-desc">
+                        <h3>Chuter</h3>
+                            <p>Le Chutteur est un objet connecté <span id="dots"></span><span id="more">  dont le nom est dérivé du mot 'CHUT!', ce qui justifie la fonctionnalité primaire de ce dispositif qui est de détecter si un bruit est trop fort dans la pièce où il se trouve. Il permet également de collecter des données supplémentaires sur l'environnement de cette pièce, notamment des données sur la température, l'humidité et l'intensité de la lumière.
+                            Langages utilisés : Java , Python.
+                            Mysql pour la base de données
+                            et Raspberry Pi</span></p>
+                    </div>
+                </div>
+            </div>
  <div class="col-md-4">
                 <div class="card-content">
                     <div class="card-img">
-                        <img src="#" alt="">
+                        <img src="img/invaders.png" alt="">
                     </div>
                     <div class="card-desc">
                         <h3>SpaceInvaders</h3>
